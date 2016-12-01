@@ -6,13 +6,13 @@ In this workshop we are going to build a small Angular application that displays
 
 ### Download 
 
-```
+```bash
 git clone  https://github.com/KokoDoko/angular-js-quickstart  mijn-project
 cd mijn-project
 ```
 Discard everything "git-like" by deleting the .git folder.
 
-```
+```bash
 rm -rf .git  # non-Windows
 rd .git /S/Q # windows
 ```
