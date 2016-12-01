@@ -7,8 +7,8 @@ In this workshop we are going to build a small Angular application that displays
 ### Download 
 
 ```
-git clone  https://github.com/KokoDoko/quickstart  my-proj
-cd my-proj
+git clone  https://github.com/KokoDoko/angular-js-quickstart  mijn-project
+cd mijn-project
 ```
 Discard everything "git-like" by deleting the .git folder.
 
