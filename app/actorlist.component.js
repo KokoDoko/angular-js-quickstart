@@ -18,7 +18,7 @@
         fetch('http://swapi.co/api/people/1/')
           .then(res => res.json())
           .then(res => {
-            // here you can pass the json result to your own function
+            // here you can place the result in the actor array
             console.log(res);
           })
       }
